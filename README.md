@@ -4,13 +4,14 @@
 
 ## :books: Learning & Concept Practice
 ### Python
-- project
+- BookBot
+- Asteroids
 
 ## :video_game: Games
 ### Unity (C#)
-- project
+- Survival Game
 
 ## :dart: Current Focus
-- Add bullets here
+- Video game
 
 *Note: Some projects are in the process of being uploaded and documented.*
